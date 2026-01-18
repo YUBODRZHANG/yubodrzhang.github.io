@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Zhang@MJU"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Yubo Zhang"
+description              : &description "Yubo Zhang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yubodrzhang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,22 +26,22 @@ author:
   avatar           : "profile.png"
   name             : "Yubo Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computational Physics and Materials"
   location         : "Fuzhou, China"
   employer         : "Minjiang University"
-  uri              : # URL
+  uri              : "https://wdxy.mju.edu.cn/llwlxzzx/2022/0112/c4174a127523/page.htm"
   email            : "yubo.drzhang@mju.edu.cn" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://www.mju.edu.cn/"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ZfXCxTIAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4667-2852"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://yubodrzhang.github.io/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
