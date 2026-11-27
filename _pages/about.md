@@ -55,4 +55,30 @@ He studies complex magnetic materials from first principles, and he develops den
 * 2018: Tulane University LBGrants Program. Vibrational properties of cuprates with SCAN
 * 2012: China Postdoctoral Science Foundation, 52nd batch general grant. Theoretical design and performance optimization of novel copper-based intermediate-band photovoltaic materials
 
-Papers are listed on the [publications](/publications/) page.
+## Publications
+
+{% if site.author.googlescholar %}
+You can also find my articles on [my Google Scholar profile]({{ site.author.googlescholar }}).
+{% endif %}
+
+\* corresponding author. # co-first author.
+
+{% if site.publication_category %}
+  {% for category in site.publication_category %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+<h2>{{ category[1].title }}</h2>
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
