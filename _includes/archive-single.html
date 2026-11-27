@@ -12,6 +12,16 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% assign pub_number = nil %}
+{% if post.collection == 'publications' %}
+  {% assign pubs_chrono = site.publications | sort: 'date' %}
+  {% for item in pubs_chrono %}
+    {% if item.url == post.url %}
+      {% assign pub_number = forloop.index %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -27,6 +37,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
+      {% if pub_number %}[{{ pub_number }}] {% endif %}
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
