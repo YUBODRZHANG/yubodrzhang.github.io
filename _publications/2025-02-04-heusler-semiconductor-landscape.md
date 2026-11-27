@@ -9,5 +9,5 @@ authors: "Yubo Zhang*, Da Ke, Zirui Dong*, Jun Luo*"
 volume_pages: "112, 155202"
 paperurl: 'https://doi.org/10.1103/b5gy-nc6y'
 doi: '10.1103/b5gy-nc6y'
-citation: '<strong>Yubo Zhang*</strong>, Da Ke, Zirui Dong*, Jun Luo*. <a class="pub-venue" href="https://doi.org/10.1103/b5gy-nc6y"><i>Physical Review B</i> 112, 155202 (2025).</a>'
+citation: '<strong>Yubo Zhang*</strong>, Da Ke, Zirui Dong*, Jun Luo*.<br><a class="pub-venue" href="https://doi.org/10.1103/b5gy-nc6y"><i>Physical Review B</i> 112, 155202 (2025).</a>'
 ---

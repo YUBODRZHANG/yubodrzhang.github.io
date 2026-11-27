@@ -9,5 +9,5 @@ authors: "Fuchen Hou#, Yubo Zhang#, Daiyue Li, Liangyu Che, and Junhao Lin*"
 volume_pages: "121, 051104"
 paperurl: 'https://doi.org/10.1063/5.0097638'
 doi: '10.1063/5.0097638'
-citation: 'Fuchen Hou#, <strong>Yubo Zhang#</strong>, Daiyue Li, Liangyu Che, and Junhao Lin*. <a class="pub-venue" href="https://doi.org/10.1063/5.0097638"><i>Appl. Phys. Lett.</i> 121, 051104 (2022).</a>'
+citation: 'Fuchen Hou#, <strong>Yubo Zhang#</strong>, Daiyue Li, Liangyu Che, and Junhao Lin*.<br><a class="pub-venue" href="https://doi.org/10.1063/5.0097638"><i>Appl. Phys. Lett.</i> 121, 051104 (2022).</a>'
 ---

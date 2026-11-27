@@ -9,5 +9,5 @@ authors: "Yubo Zhang, Xun Yuan, Xiudong Sun, and Wenqing Zhang*"
 volume_pages: "152, 588"
 paperurl: 'https://doi.org/10.1016/j.ssc.2012.01.024'
 doi: '10.1016/j.ssc.2012.01.024'
-citation: '<strong>Yubo Zhang</strong>, Xun Yuan, Xiudong Sun, and Wenqing Zhang*. <a class="pub-venue" href="https://doi.org/10.1016/j.ssc.2012.01.024"><i>Solid State Comm.</i> 152, 588 (2012).</a>'
+citation: '<strong>Yubo Zhang</strong>, Xun Yuan, Xiudong Sun, and Wenqing Zhang*.<br><a class="pub-venue" href="https://doi.org/10.1016/j.ssc.2012.01.024"><i>Solid State Comm.</i> 152, 588 (2012).</a>'
 ---

@@ -9,5 +9,5 @@ authors: "Yubo Zhang, Christopher Lane, James W. Furness, Bernardo Barbiellini, 
 volume_pages: "117, 68"
 paperurl: 'https://doi.org/10.1073/pnas.1910411116'
 doi: '10.1073/pnas.1910411116'
-citation: '<strong>Yubo Zhang</strong>, Christopher Lane, James W. Furness, Bernardo Barbiellini, John P. Perdew*, Robert S. Markiewicz, Arun Bansil*, and Jianwei Sun*. <a class="pub-venue" href="https://doi.org/10.1073/pnas.1910411116"><i>Proc. Natl. Acad. Sci. U.S.A.</i> 117, 68 (2019).</a>'
+citation: '<strong>Yubo Zhang</strong>, Christopher Lane, James W. Furness, Bernardo Barbiellini, John P. Perdew*, Robert S. Markiewicz, Arun Bansil*, and Jianwei Sun*.<br><a class="pub-venue" href="https://doi.org/10.1073/pnas.1910411116"><i>Proc. Natl. Acad. Sci. U.S.A.</i> 117, 68 (2019).</a>'
 ---

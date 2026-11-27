@@ -9,5 +9,5 @@ authors: "Yubo Zhang, Wenqing Zhang*, David J Singh*"
 volume_pages: "22, 19585"
 paperurl: 'https://doi.org/10.1039/d0cp03567j'
 doi: '10.1039/d0cp03567j'
-citation: '<strong>Yubo Zhang</strong>, Wenqing Zhang*, David J Singh*. <a class="pub-venue" href="https://doi.org/10.1039/d0cp03567j"><i>Physical Chemistry Chemical Physics</i> 22, 19585 (2020).</a>'
+citation: '<strong>Yubo Zhang</strong>, Wenqing Zhang*, David J Singh*.<br><a class="pub-venue" href="https://doi.org/10.1039/d0cp03567j"><i>Physical Chemistry Chemical Physics</i> 22, 19585 (2020).</a>'
 ---

@@ -9,5 +9,5 @@ authors: "Da Ke and Yubo Zhang*"
 volume_pages: "136, 224102"
 paperurl: 'https://doi.org/10.1063/5.0233159'
 doi: '10.1063/5.0233159'
-citation: 'Da Ke and <strong>Yubo Zhang*</strong>. <a class="pub-venue" href="https://doi.org/10.1063/5.0233159"><i>J. Appl. Phys.</i> 136, 224102 (2024).</a>'
+citation: 'Da Ke and <strong>Yubo Zhang*</strong>.<br><a class="pub-venue" href="https://doi.org/10.1063/5.0233159"><i>J. Appl. Phys.</i> 136, 224102 (2024).</a>'
 ---

@@ -9,5 +9,5 @@ authors: "Lili Zhang#, Gang Wang#, Yubo Zhang#, Zhipeng Cao, Yu Wang, Tianjun Ca
 volume_pages: "14, 10265"
 paperurl: 'https://doi.org/10.1021/acsnano.0c03665'
 doi: '10.1021/acsnano.0c03665'
-citation: 'Lili Zhang#, Gang Wang#, <strong>Yubo Zhang#</strong>, Zhipeng Cao, Yu Wang, Tianjun Cao, Cong Wang, Bin Cheng, Wenqing Zhang, Xiangang Wan, Junhao Lin*, Shi-Jun Liang*, and Feng Miao*. <a class="pub-venue" href="https://doi.org/10.1021/acsnano.0c03665"><i>ACS Nano</i> 14, 10265 (2020).</a>'
+citation: 'Lili Zhang#, Gang Wang#, <strong>Yubo Zhang#</strong>, Zhipeng Cao, Yu Wang, Tianjun Cao, Cong Wang, Bin Cheng, Wenqing Zhang, Xiangang Wan, Junhao Lin*, Shi-Jun Liang*, and Feng Miao*.<br><a class="pub-venue" href="https://doi.org/10.1021/acsnano.0c03665"><i>ACS Nano</i> 14, 10265 (2020).</a>'
 ---
