@@ -9,5 +9,5 @@ authors: "Jiajun Chen, Zirui Dong*, Qizhu Li, Binghui Ge, Jiye Zhang, Yubo Zhang
 volume_pages: "36, 2405858"
 paperurl: 'https://doi.org/10.1002/adma.202405858'
 doi: '10.1002/adma.202405858'
-citation: 'Jiajun Chen, Zirui Dong*, Qizhu Li, Binghui Ge, Jiye Zhang, <strong>Yubo Zhang*</strong>, Jun Luo*. &quot;Enhanced Thermoelectric Performance in Vacancy-Filling Heuslers due to Kondo-Like Effect.&quot; <span class="pub-venue"><i>Adv. Mater.</i> 36, 2405858 (2024).</span> <a href="https://doi.org/10.1002/adma.202405858">https://doi.org/10.1002/adma.202405858</a>'
+citation: 'Jiajun Chen, Zirui Dong*, Qizhu Li, Binghui Ge, Jiye Zhang, <strong>Yubo Zhang*</strong>, Jun Luo*. <span class="pub-venue"><i>Adv. Mater.</i> 36, 2405858 (2024).</span> <a href="https://doi.org/10.1002/adma.202405858">https://doi.org/10.1002/adma.202405858</a>'
 ---

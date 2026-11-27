@@ -9,5 +9,5 @@ authors: "Da Ke, Jianwei Sun*, and Yubo Zhang*"
 volume_pages: "162, 014107"
 paperurl: 'https://doi.org/10.1063/5.0240018'
 doi: '10.1063/5.0240018'
-citation: 'Da Ke, Jianwei Sun*, and <strong>Yubo Zhang*</strong>. &quot;Accurate DFT Simulation of Complex Functional Materials: Synergistic Enhancements Achieved by SCAN meta-GGA.&quot; <span class="pub-venue"><i>J. Chem. Phys.</i> 162, 014107 (2025).</span> <a href="https://doi.org/10.1063/5.0240018">https://doi.org/10.1063/5.0240018</a>'
+citation: 'Da Ke, Jianwei Sun*, and <strong>Yubo Zhang*</strong>. <span class="pub-venue"><i>J. Chem. Phys.</i> 162, 014107 (2025).</span> <a href="https://doi.org/10.1063/5.0240018">https://doi.org/10.1063/5.0240018</a>'
 ---

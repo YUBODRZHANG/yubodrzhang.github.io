@@ -9,5 +9,5 @@ authors: "Shaolong Jiang#, Fuchen Hou#, Shengfeng Zeng#, Yubo Zhang#, Erding Zha
 volume_pages: "69, 3228"
 paperurl: 'https://doi.org/10.1016/j.scib.2024.07.025'
 doi: '10.1016/j.scib.2024.07.025'
-citation: 'Shaolong Jiang#, Fuchen Hou#, Shengfeng Zeng#, <strong>Yubo Zhang#</strong>, Erding Zhao, Yilin Sun*, Liyun Zhao, Cheng Zhang, Mengyuan Jia, Jun-Feng Dai, Mingyuan Huang, Qing Zhang, Xiaolong Zou*, Yanfeng Zhang*, and Junhao Lin*. &quot;An Emerging 2D Quaternary Semiconductor with Gate-Tunable Anisotropic Conductance.&quot; <span class="pub-venue"><i>Science Bulletin</i> 69, 3228 (2024).</span> <a href="https://doi.org/10.1016/j.scib.2024.07.025">https://doi.org/10.1016/j.scib.2024.07.025</a>'
+citation: 'Shaolong Jiang#, Fuchen Hou#, Shengfeng Zeng#, <strong>Yubo Zhang#</strong>, Erding Zhao, Yilin Sun*, Liyun Zhao, Cheng Zhang, Mengyuan Jia, Jun-Feng Dai, Mingyuan Huang, Qing Zhang, Xiaolong Zou*, Yanfeng Zhang*, and Junhao Lin*. <span class="pub-venue"><i>Science Bulletin</i> 69, 3228 (2024).</span> <a href="https://doi.org/10.1016/j.scib.2024.07.025">https://doi.org/10.1016/j.scib.2024.07.025</a>'
 ---

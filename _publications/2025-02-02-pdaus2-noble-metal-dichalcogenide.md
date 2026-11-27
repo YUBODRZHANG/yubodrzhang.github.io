@@ -9,5 +9,5 @@ authors: "Da Ke#, Yashan Chen#, Junxiong Wu, Chutong Zhang, Fuchen Hou, Shaolong
 volume_pages: "397, 115819"
 paperurl: 'https://doi.org/10.1016/j.ssc.2024.115819'
 doi: '10.1016/j.ssc.2024.115819'
-citation: 'Da Ke#, Yashan Chen#, Junxiong Wu, Chutong Zhang, Fuchen Hou, Shaolong Jiang, Junhao Lin, Jinquan Hong*, and <strong>Yubo Zhang*</strong>. &quot;Prediction of 2D Noble-Metal-Dichalcogenide: PdAuS2.&quot; <span class="pub-venue"><i>Solid State Communications</i> 397, 115819 (2025).</span> <a href="https://doi.org/10.1016/j.ssc.2024.115819">https://doi.org/10.1016/j.ssc.2024.115819</a>'
+citation: 'Da Ke#, Yashan Chen#, Junxiong Wu, Chutong Zhang, Fuchen Hou, Shaolong Jiang, Junhao Lin, Jinquan Hong*, and <strong>Yubo Zhang*</strong>. <span class="pub-venue"><i>Solid State Communications</i> 397, 115819 (2025).</span> <a href="https://doi.org/10.1016/j.ssc.2024.115819">https://doi.org/10.1016/j.ssc.2024.115819</a>'
 ---
