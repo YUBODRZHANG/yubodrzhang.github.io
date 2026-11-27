@@ -36,7 +36,7 @@ layout: default
                 {% endif %}
               {% endfor %}
             {% endif %}
-            <h1 class="page__title{% if page.collection == 'publications' %} pub-entry-title{% endif %}" itemprop="headline">{% if pub_number %}[{{ pub_number }}] {% endif %}{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+            <h1 class="page__title{% if page.collection == 'publications' %} pub-entry-title{% endif %}" itemprop="headline">{% if pub_number %}<span class="pub-venue">[{{ pub_number }}]</span> {% endif %}{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
           {% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -59,6 +59,7 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
+        {% if page.collection == 'publications' %}<div class="pub-cite">{% endif %}
         {% assign paper_download = page.paperurl %}
         {% if paper_download contains 'doi.org' %}
           {% assign paper_download = false %}
@@ -90,6 +91,7 @@ layout: default
         {% elsif page.bibtexurl %}
           <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% endif %}
+        {% if page.collection == 'publications' %}</div>{% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

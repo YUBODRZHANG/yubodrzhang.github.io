@@ -37,7 +37,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if pub_number %}[{{ pub_number }}] {% endif %}
+      {% if pub_number %}<span class="pub-venue">[{{ pub_number }}]</span> {% endif %}
       {% if post.collection == 'publications' %}
         {{ title }}
       {% elsif post.link %}
@@ -65,6 +65,7 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
+    {% if post.collection == 'publications' %}<div class="pub-cite">{% endif %}
     {% assign paper_download = post.paperurl %}
     {% if paper_download contains 'doi.org' %}
       {% assign paper_download = false %}
@@ -96,6 +97,7 @@
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
+    {% if post.collection == 'publications' %}</div>{% endif %}
 
   </article>
 </div>
