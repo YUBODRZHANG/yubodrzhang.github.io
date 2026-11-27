@@ -9,5 +9,5 @@ authors: "Yubo Zhang, Jiawei Zhang, Weiwei Gao, Tesfaye A. Abtew, Youwei Wang, P
 volume_pages: "139, 184706"
 paperurl: 'https://doi.org/10.1063/1.4828864'
 doi: '10.1063/1.4828864'
-citation: '<strong>Yubo Zhang</strong>, Jiawei Zhang, Weiwei Gao, Tesfaye A. Abtew, Youwei Wang, Peihong Zhang*, and Wenqing Zhang*. <a class="pub-venue" href="https://doi.org/10.1063/1.4828864"><i>J. Chem. Phys.</i> 139, 184706 (2013).</a>'
+citation: '<strong>Yubo Zhang</strong>, Jiawei Zhang, Weiwei Gao, Tesfaye A. Abtew, Youwei Wang, Peihong Zhang*, and Wenqing Zhang*.<br><a class="pub-venue" href="https://doi.org/10.1063/1.4828864"><i>J. Chem. Phys.</i> 139, 184706 (2013).</a>'
 ---

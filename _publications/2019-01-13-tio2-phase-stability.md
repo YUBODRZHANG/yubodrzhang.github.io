@@ -9,5 +9,5 @@ authors: "Yubo Zhang, James W. Furness, Bing Xiao, and Jianwei Sun*"
 volume_pages: "150, 014105"
 paperurl: 'https://doi.org/10.1063/1.5055623'
 doi: '10.1063/1.5055623'
-citation: '<strong>Yubo Zhang</strong>, James W. Furness, Bing Xiao, and Jianwei Sun*. <a class="pub-venue" href="https://doi.org/10.1063/1.5055623"><i>J. Chem. Phys.</i> 150, 014105 (2019).</a>'
+citation: '<strong>Yubo Zhang</strong>, James W. Furness, Bing Xiao, and Jianwei Sun*.<br><a class="pub-venue" href="https://doi.org/10.1063/1.5055623"><i>J. Chem. Phys.</i> 150, 014105 (2019).</a>'
 ---

@@ -9,5 +9,5 @@ authors: "Yubo Zhang*, Da Ke, Rohan Maniar, Timo Lebeda, Peihong Zhang*, Jianwei
 volume_pages: "123, e2529764123"
 paperurl: 'https://doi.org/10.1073/pnas.2529764123'
 doi: '10.1073/pnas.2529764123'
-citation: '<strong>Yubo Zhang*</strong>, Da Ke, Rohan Maniar, Timo Lebeda, Peihong Zhang*, Jianwei Sun*, John P. Perdew*. <a class="pub-venue" href="https://doi.org/10.1073/pnas.2529764123"><i>Proc. Natl. Acad. Sci. U.S.A.</i> 123, e2529764123 (2026).</a>'
+citation: '<strong>Yubo Zhang*</strong>, Da Ke, Rohan Maniar, Timo Lebeda, Peihong Zhang*, Jianwei Sun*, John P. Perdew*.<br><a class="pub-venue" href="https://doi.org/10.1073/pnas.2529764123"><i>Proc. Natl. Acad. Sci. U.S.A.</i> 123, e2529764123 (2026).</a>'
 ---

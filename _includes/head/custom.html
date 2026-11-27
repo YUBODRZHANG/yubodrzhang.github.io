@@ -68,6 +68,15 @@
   .pub-cite {
     padding-left: 2em;
   }
+
+  /* Wrapped title lines align with the title text, not under [n]. */
+  h1.pub-entry-title,
+  h2.pub-entry-title {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    column-gap: 0.35em;
+    align-items: start;
+  }
 </style>
 
 <!-- end custom head snippets -->

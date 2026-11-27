@@ -9,5 +9,5 @@ authors: "Weimin Hu, Song Ye, Qizhu Li, Binru Zhao, Masato Hagihala, Zirui Dong,
 volume_pages: "11, 2407578"
 paperurl: 'https://doi.org/10.1002/advs.202407578'
 doi: '10.1002/advs.202407578'
-citation: 'Weimin Hu, Song Ye, Qizhu Li, Binru Zhao, Masato Hagihala, Zirui Dong,* <strong>Yubo Zhang*</strong>, Jiye Zhang, Shuki Torri, Jie Ma, Binghui Ge, Jun Luo*. <a class="pub-venue" href="https://doi.org/10.1002/advs.202407578"><i>Advanced Science</i> 11, 2407578 (2024).</a>'
+citation: 'Weimin Hu, Song Ye, Qizhu Li, Binru Zhao, Masato Hagihala, Zirui Dong,* <strong>Yubo Zhang*</strong>, Jiye Zhang, Shuki Torri, Jie Ma, Binghui Ge, Jun Luo*.<br><a class="pub-venue" href="https://doi.org/10.1002/advs.202407578"><i>Advanced Science</i> 11, 2407578 (2024).</a>'
 ---
