@@ -4,8 +4,7 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 #
-# Talks, teaching, portfolio, blog posts, and a separate CV page are omitted.
+# The site is a single homepage. Talks, teaching, portfolio, blog posts,
+# a separate CV page, and a separate publications page are omitted.
 
-main:
-  - title: "Publications"
-    url: /publications/
+main: []

@@ -8,7 +8,7 @@ The site is built with [Academic Pages](https://github.com/academicpages/academi
 
 ## Site content
 
-* Homepage, including the CV sections: `_pages/about.md`
+* Homepage, including the CV sections and publication list: `_pages/about.md`
 * Navigation: `_data/navigation.yml`
 * Publications: one Markdown file per paper in `_publications/`
 * Site-wide settings, including the repository name: `_config.yml`
