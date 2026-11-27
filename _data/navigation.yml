@@ -4,11 +4,8 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 #
-# Talks, teaching, portfolio, and blog posts are omitted: they are not listed on the CV.
+# Talks, teaching, portfolio, blog posts, and a separate CV page are omitted.
 
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "CV"
-    url: /cv/

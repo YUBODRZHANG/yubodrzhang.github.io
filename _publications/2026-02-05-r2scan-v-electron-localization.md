@@ -9,5 +9,5 @@ authors: "Yubo Zhang*, Da Ke, Rohan Maniar, Timo Lebeda, Peihong Zhang*, Jianwei
 volume_pages: "123, e2529764123"
 paperurl: 'https://doi.org/10.1073/pnas.2529764123'
 doi: '10.1073/pnas.2529764123'
-citation: 'Yubo Zhang*, Da Ke, Rohan Maniar, Timo Lebeda, Peihong Zhang*, Jianwei Sun*, John P. Perdew*. &quot;Electron Localization in NonCompact Covalent Bonds Captured by the r2SCAN+V Approach.&quot; <i>Proc. Natl. Acad. Sci. U.S.A.</i> 123, e2529764123 (2026). <a href="https://doi.org/10.1073/pnas.2529764123">https://doi.org/10.1073/pnas.2529764123</a>'
+citation: '<strong>Yubo Zhang*</strong>, Da Ke, Rohan Maniar, Timo Lebeda, Peihong Zhang*, Jianwei Sun*, John P. Perdew*. &quot;Electron Localization in NonCompact Covalent Bonds Captured by the r2SCAN+V Approach.&quot; <span class="pub-venue"><i>Proc. Natl. Acad. Sci. U.S.A.</i> 123, e2529764123 (2026).</span> <a href="https://doi.org/10.1073/pnas.2529764123">https://doi.org/10.1073/pnas.2529764123</a>'
 ---

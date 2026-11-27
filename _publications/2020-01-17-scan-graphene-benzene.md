@@ -9,5 +9,5 @@ authors: "Yubo Zhang, Wenqing Zhang*, David J Singh*"
 volume_pages: "22, 19585"
 paperurl: 'https://doi.org/10.1039/d0cp03567j'
 doi: '10.1039/d0cp03567j'
-citation: 'Yubo Zhang, Wenqing Zhang*, David J Singh*. &quot;Localization in the SCAN Meta-Generalized Gradient Approximation Functional Leading to Broken Symmetry Ground States for Graphene and Benzene.&quot; <i>Physical Chemistry Chemical Physics</i> 22, 19585 (2020). <a href="https://doi.org/10.1039/d0cp03567j">https://doi.org/10.1039/d0cp03567j</a>'
+citation: '<strong>Yubo Zhang</strong>, Wenqing Zhang*, David J Singh*. &quot;Localization in the SCAN Meta-Generalized Gradient Approximation Functional Leading to Broken Symmetry Ground States for Graphene and Benzene.&quot; <span class="pub-venue"><i>Physical Chemistry Chemical Physics</i> 22, 19585 (2020).</span> <a href="https://doi.org/10.1039/d0cp03567j">https://doi.org/10.1039/d0cp03567j</a>'
 ---

@@ -9,5 +9,5 @@ authors: "Yubo Zhang*, Akilan Ramasamy, Kanun Pokharel, Bing Xiao, James W. Furn
 volume_pages: "15:e70007"
 paperurl: 'https://doi.org/10.1002/wcms.70007'
 doi: '10.1002/wcms.70007'
-citation: 'Yubo Zhang*, Akilan Ramasamy, Kanun Pokharel, Bing Xiao, James W. Furness, Jinliang Ning, Ruiqi Zhang, and Jianwei Sun*. &quot;Advances and challenges of SCAN and r2SCAN density functionals in transition-metal compounds.&quot; <i>WIREs Computational Molecular Science</i> 15:e70007 (2025). <a href="https://doi.org/10.1002/wcms.70007">https://doi.org/10.1002/wcms.70007</a> Invited review.'
+citation: '<strong>Yubo Zhang*</strong>, Akilan Ramasamy, Kanun Pokharel, Bing Xiao, James W. Furness, Jinliang Ning, Ruiqi Zhang, and Jianwei Sun*. &quot;Advances and challenges of SCAN and r2SCAN density functionals in transition-metal compounds.&quot; <span class="pub-venue"><i>WIREs Computational Molecular Science</i> 15:e70007 (2025).</span> <a href="https://doi.org/10.1002/wcms.70007">https://doi.org/10.1002/wcms.70007</a> Invited review.'
 ---

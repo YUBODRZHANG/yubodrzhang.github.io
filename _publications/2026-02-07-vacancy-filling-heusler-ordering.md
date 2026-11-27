@@ -9,5 +9,5 @@ authors: "Qizhu Li, Zirui Dong, Zongyao Li, Pengfei Nan*, Yubo Zhang*, Binghui G
 volume_pages: "148, 29821"
 paperurl: 'https://doi.org/10.1021/jacs.6c04205'
 doi: '10.1021/jacs.6c04205'
-citation: 'Qizhu Li, Zirui Dong, Zongyao Li, Pengfei Nan*, Yubo Zhang*, Binghui Ge*, Jun Luo*. &quot;Emergent Atomic Ordering in Vacancy-Filling Heusler Alloys.&quot; <i>J. Am. Chem. Soc.</i> 148, 29821 (2026). <a href="https://doi.org/10.1021/jacs.6c04205">https://doi.org/10.1021/jacs.6c04205</a>'
+citation: 'Qizhu Li, Zirui Dong, Zongyao Li, Pengfei Nan*, <strong>Yubo Zhang*</strong>, Binghui Ge*, Jun Luo*. &quot;Emergent Atomic Ordering in Vacancy-Filling Heusler Alloys.&quot; <span class="pub-venue"><i>J. Am. Chem. Soc.</i> 148, 29821 (2026).</span> <a href="https://doi.org/10.1021/jacs.6c04205">https://doi.org/10.1021/jacs.6c04205</a>'
 ---
