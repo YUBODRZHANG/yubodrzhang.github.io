@@ -59,6 +59,7 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
+        {% if page.collection == 'publications' %}<div class="pub-cite">{% endif %}
         {% assign paper_download = page.paperurl %}
         {% if paper_download contains 'doi.org' %}
           {% assign paper_download = false %}
@@ -90,6 +91,7 @@ layout: default
         {% elsif page.bibtexurl %}
           <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% endif %}
+        {% if page.collection == 'publications' %}</div>{% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
