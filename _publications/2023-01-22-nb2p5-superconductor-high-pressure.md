@@ -9,5 +9,5 @@ authors: "Lei-Ming Chen*, Fang-Huang Wei, Yan-Hong Chen, Hang-Qi Liu, Yang Xu, B
 volume_pages: "5, 364"
 paperurl: 'https://doi.org/10.1007/s42864-023-00203-7'
 doi: '10.1007/s42864-023-00203-7'
-citation: 'Lei-Ming Chen*, Fang-Huang Wei, Yan-Hong Chen, Hang-Qi Liu, Yang Xu, Bo-Yu Chen, Can-Li Dai, <strong>Yu-Bo Zhang*</strong> &amp; Zhen-Hai Yu*. <span class="pub-venue"><i>Tungsten</i> 5, 364 (2023).</span> <a href="https://doi.org/10.1007/s42864-023-00203-7">https://doi.org/10.1007/s42864-023-00203-7</a>'
+citation: 'Lei-Ming Chen*, Fang-Huang Wei, Yan-Hong Chen, Hang-Qi Liu, Yang Xu, Bo-Yu Chen, Can-Li Dai, <strong>Yu-Bo Zhang*</strong> &amp; Zhen-Hai Yu*. <a class="pub-venue" href="https://doi.org/10.1007/s42864-023-00203-7"><i>Tungsten</i> 5, 364 (2023).</a>'
 ---

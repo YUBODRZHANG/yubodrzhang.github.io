@@ -9,5 +9,5 @@ authors: "Yubo Zhang*, Da Ke, Junxiong Wu, Chutong Zhang, Baichen Lin, Zuhuang C
 volume_pages: "160, 134101"
 paperurl: 'https://doi.org/10.1063/5.0180315'
 doi: '10.1063/5.0180315'
-citation: '<strong>Yubo Zhang*</strong>, Da Ke, Junxiong Wu, Chutong Zhang, Baichen Lin, Zuhuang Chen, John P. Perdew, Jianwei Sun*. <span class="pub-venue"><i>J. Chem. Phys.</i> 160, 134101 (2024).</span> <a href="https://doi.org/10.1063/5.0180315">https://doi.org/10.1063/5.0180315</a> Invited paper in the Special Collection: John Perdew Festschrift.'
+citation: '<strong>Yubo Zhang*</strong>, Da Ke, Junxiong Wu, Chutong Zhang, Baichen Lin, Zuhuang Chen, John P. Perdew, Jianwei Sun*. <a class="pub-venue" href="https://doi.org/10.1063/5.0180315"><i>J. Chem. Phys.</i> 160, 134101 (2024).</a> Invited paper in the Special Collection: John Perdew Festschrift.'
 ---

@@ -15,8 +15,22 @@
 <meta name="theme-color" content="#ffffff"/>
 
 <style>
-  .pub-venue { color: #0047ab; }
-  html[data-theme="dark"] .pub-venue { color: #8eb6ff; }
+  .pub-venue,
+  a.pub-venue,
+  a.pub-venue:hover,
+  a.pub-venue:focus,
+  a.pub-venue:active,
+  a.pub-venue:visited {
+    color: #0047ab;
+  }
+  html[data-theme="dark"] .pub-venue,
+  html[data-theme="dark"] a.pub-venue,
+  html[data-theme="dark"] a.pub-venue:hover,
+  html[data-theme="dark"] a.pub-venue:focus,
+  html[data-theme="dark"] a.pub-venue:active,
+  html[data-theme="dark"] a.pub-venue:visited {
+    color: #8eb6ff;
+  }
 
   a,
   a:hover,

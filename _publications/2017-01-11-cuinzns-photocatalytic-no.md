@@ -9,5 +9,5 @@ authors: "Ying Ye, Zhigang Zang*, Tingwei Zhou, Fan Dong, Shirong Lu, Xiaosheng 
 volume_pages: "357, 100"
 paperurl: 'https://doi.org/10.1016/j.jcat.2017.11.002'
 doi: '10.1016/j.jcat.2017.11.002'
-citation: 'Ying Ye, Zhigang Zang*, Tingwei Zhou, Fan Dong, Shirong Lu, Xiaosheng Tang, Wei Wei, <strong>Yubo Zhang*</strong>. <span class="pub-venue"><i>J. Catalysis</i> 357, 100 (2017).</span> <a href="https://doi.org/10.1016/j.jcat.2017.11.002">https://doi.org/10.1016/j.jcat.2017.11.002</a>'
+citation: 'Ying Ye, Zhigang Zang*, Tingwei Zhou, Fan Dong, Shirong Lu, Xiaosheng Tang, Wei Wei, <strong>Yubo Zhang*</strong>. <a class="pub-venue" href="https://doi.org/10.1016/j.jcat.2017.11.002"><i>J. Catalysis</i> 357, 100 (2017).</a>'
 ---

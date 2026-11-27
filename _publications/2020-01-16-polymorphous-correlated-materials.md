@@ -9,5 +9,5 @@ authors: "Yubo Zhang, James Furness, Ruiqi Zhang, Zhi Wang, Alex Zunger*, and Ji
 volume_pages: "102, 045112"
 paperurl: 'https://doi.org/10.1103/physrevb.102.045112'
 doi: '10.1103/physrevb.102.045112'
-citation: '<strong>Yubo Zhang</strong>, James Furness, Ruiqi Zhang, Zhi Wang, Alex Zunger*, and Jianwei Sun*. <span class="pub-venue"><i>Phys. Rev. B</i> 102, 045112 (2020).</span> <a href="https://doi.org/10.1103/physrevb.102.045112">https://doi.org/10.1103/physrevb.102.045112</a>'
+citation: '<strong>Yubo Zhang</strong>, James Furness, Ruiqi Zhang, Zhi Wang, Alex Zunger*, and Jianwei Sun*. <a class="pub-venue" href="https://doi.org/10.1103/physrevb.102.045112"><i>Phys. Rev. B</i> 102, 045112 (2020).</a>'
 ---

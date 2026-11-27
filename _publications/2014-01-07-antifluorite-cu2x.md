@@ -9,5 +9,5 @@ authors: "Yubo Zhang, Youwei Wang, Lili Xi, Ruihao Qiu, Xun Shi, Peihong Zhang*,
 volume_pages: "140, 074702"
 paperurl: 'https://doi.org/10.1063/1.4865257'
 doi: '10.1063/1.4865257'
-citation: '<strong>Yubo Zhang</strong>, Youwei Wang, Lili Xi, Ruihao Qiu, Xun Shi, Peihong Zhang*, and Wenqing Zhang*. <span class="pub-venue"><i>J. Chem. Phys.</i> 140, 074702 (2014).</span> <a href="https://doi.org/10.1063/1.4865257">https://doi.org/10.1063/1.4865257</a>'
+citation: '<strong>Yubo Zhang</strong>, Youwei Wang, Lili Xi, Ruihao Qiu, Xun Shi, Peihong Zhang*, and Wenqing Zhang*. <a class="pub-venue" href="https://doi.org/10.1063/1.4865257"><i>J. Chem. Phys.</i> 140, 074702 (2014).</a>'
 ---
