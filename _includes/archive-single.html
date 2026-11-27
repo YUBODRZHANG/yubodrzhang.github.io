@@ -37,7 +37,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if pub_number %}[{{ pub_number }}] {% endif %}
+      {% if pub_number %}<span class="pub-venue">[{{ pub_number }}]</span> {% endif %}
       {% if post.collection == 'publications' %}
         {{ title }}
       {% elsif post.link %}
