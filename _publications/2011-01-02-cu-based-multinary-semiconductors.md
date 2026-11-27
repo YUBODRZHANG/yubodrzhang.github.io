@@ -9,5 +9,5 @@ authors: "Yubo Zhang, Xun Yuan, Xiudong Sun*, Bi-Ching Shih, Peihong Zhang*, and
 volume_pages: "84, 075127"
 paperurl: 'https://doi.org/10.1103/physrevb.84.075127'
 doi: '10.1103/physrevb.84.075127'
-citation: '<strong>Yubo Zhang</strong>, Xun Yuan, Xiudong Sun*, Bi-Ching Shih, Peihong Zhang*, and Wenqing Zhang*. &quot;Comparative Study of Structural and Electronic Properties of Cu-based Multinary Semiconductors.&quot; <span class="pub-venue"><i>Phys. Rev. B</i> 84, 075127 (2011).</span> <a href="https://doi.org/10.1103/physrevb.84.075127">https://doi.org/10.1103/physrevb.84.075127</a>'
+citation: '<strong>Yubo Zhang</strong>, Xun Yuan, Xiudong Sun*, Bi-Ching Shih, Peihong Zhang*, and Wenqing Zhang*. <a class="pub-venue" href="https://doi.org/10.1103/physrevb.84.075127"><i>Phys. Rev. B</i> 84, 075127 (2011).</a>'
 ---

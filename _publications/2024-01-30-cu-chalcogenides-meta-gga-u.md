@@ -9,5 +9,5 @@ authors: "Yubo Zhang*"
 volume_pages: "161, 174109"
 paperurl: 'https://doi.org/10.1063/5.0232711'
 doi: '10.1063/5.0232711'
-citation: '<strong>Yubo Zhang*</strong>. &quot;Advancing DFT Predictions in Cu-Chalcogenides with Full-Yet-Shallow 3d-Orbitals: Meta-GGA plus Hubbard-like U Correction.&quot; <span class="pub-venue"><i>J. Chem. Phys.</i> 161, 174109 (2024).</span> <a href="https://doi.org/10.1063/5.0232711">https://doi.org/10.1063/5.0232711</a>'
+citation: '<strong>Yubo Zhang*</strong>. <a class="pub-venue" href="https://doi.org/10.1063/5.0232711"><i>J. Chem. Phys.</i> 161, 174109 (2024).</a>'
 ---

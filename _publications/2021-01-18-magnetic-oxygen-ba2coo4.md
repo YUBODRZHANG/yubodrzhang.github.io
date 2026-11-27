@@ -9,5 +9,5 @@ authors: "Yubo Zhang#, Jinliang Ning#, Lin Hou, Jmin Kidd, Melissa Foley, Jiandi
 volume_pages: "150, 109803"
 paperurl: 'https://doi.org/10.1016/j.jpcs.2020.109803'
 doi: '10.1016/j.jpcs.2020.109803'
-citation: '<strong>Yubo Zhang#</strong>, Jinliang Ning#, Lin Hou, Jmin Kidd, Melissa Foley, Jiandi Zhang*, Rongying Jin*, Jianwei Sun*, Ward Plummer*. &quot;Magnetic oxygen in transition metal oxides: A case study of Ba2CoO4.&quot; <span class="pub-venue"><i>Journal of Physics and Chemistry of Solids</i> 150, 109803 (2021).</span> <a href="https://doi.org/10.1016/j.jpcs.2020.109803">https://doi.org/10.1016/j.jpcs.2020.109803</a>'
+citation: '<strong>Yubo Zhang#</strong>, Jinliang Ning#, Lin Hou, Jmin Kidd, Melissa Foley, Jiandi Zhang*, Rongying Jin*, Jianwei Sun*, Ward Plummer*. <a class="pub-venue" href="https://doi.org/10.1016/j.jpcs.2020.109803"><i>Journal of Physics and Chemistry of Solids</i> 150, 109803 (2021).</a>'
 ---
