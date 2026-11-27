@@ -9,5 +9,5 @@ authors: "Yubo Zhang, Jiawei Zhang, Weiwei Gao, Tesfaye A. Abtew, Youwei Wang, P
 volume_pages: "139, 184706"
 paperurl: 'https://doi.org/10.1063/1.4828864'
 doi: '10.1063/1.4828864'
-citation: 'Yubo Zhang, Jiawei Zhang, Weiwei Gao, Tesfaye A. Abtew, Youwei Wang, Peihong Zhang*, and Wenqing Zhang*. &quot;Near-edge band structures and band gaps of Cu-based semiconductors predicted by the modified Becke-Johnson potential plus an on-site Coulomb U.&quot; <i>J. Chem. Phys.</i> 139, 184706 (2013). <a href="https://doi.org/10.1063/1.4828864">https://doi.org/10.1063/1.4828864</a>'
+citation: '<strong>Yubo Zhang</strong>, Jiawei Zhang, Weiwei Gao, Tesfaye A. Abtew, Youwei Wang, Peihong Zhang*, and Wenqing Zhang*. &quot;Near-edge band structures and band gaps of Cu-based semiconductors predicted by the modified Becke-Johnson potential plus an on-site Coulomb U.&quot; <span class="pub-venue"><i>J. Chem. Phys.</i> 139, 184706 (2013).</span> <a href="https://doi.org/10.1063/1.4828864">https://doi.org/10.1063/1.4828864</a>'
 ---
